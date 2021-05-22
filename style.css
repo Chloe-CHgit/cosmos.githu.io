@@ -1,0 +1,49 @@
+body
+{
+	text-align: center;
+	margin: 0;
+	font-family: 'New Tegomin', serif;
+}
+
+h1
+{
+	font-size: 50px;
+	margin:0;
+}
+
+h2
+{
+	font-size: 35px;
+}
+
+.banner 
+{
+	color:white;
+}
+
+.banner 
+{
+	background-color: black;
+}
+
+.mythe 
+{
+	color:black;
+}
+
+.album img
+{
+	width: 800px;
+}
+
+.album
+{
+	background-color: black;
+	color: white;
+}
+
+p
+{
+	font-size: 1.2em;
+	margin: 0;
+}
